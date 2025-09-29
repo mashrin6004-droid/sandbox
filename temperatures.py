@@ -1,9 +1,4 @@
-"""
-CP1404/CP5632 - Practical - Suggested Solution
-Temperature conversions
-"""
 
-# Note: this is a constant, so it is global, defined before main
 MENU = """C - Convert Celsius to Fahrenheit
     F - Convert Fahrenheit to Celsius
     Q - Quit"""

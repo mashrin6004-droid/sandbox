@@ -1,8 +1,4 @@
-"""
-CP1404/CP5632 - Practical - Suggested Solution
-Convert temperatures between files
-This also contains a function to create the data file to begin with
-"""
+
 
 import random
 
