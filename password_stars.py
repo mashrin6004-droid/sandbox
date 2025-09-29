@@ -1,7 +1,3 @@
-"""
-CP1404/CP5632 - Practical - Suggested Solution
-Get a password with minimum length and display asterisks
-"""
 
 MINIMUM_LENGTH = 4
 

@@ -1,11 +1,4 @@
-"""
-CP1404/CP5632 - Practical - Suggested Solution
-Fixed program to determine score status, with function
-"""
 
-
-# Note boundary conditions (50 should be a pass, not > 50)
-# Note efficiency and nesting; use the fewest number of if/elif as possible
 
 def main():
     """Get a numeric score and display its status."""
