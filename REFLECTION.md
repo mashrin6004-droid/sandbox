@@ -13,7 +13,7 @@ usually watch them in the evenings at home for about 1–2 hours, making sure I 
 
 ## What are you doing well in the subject so far that you will keep doing?
 
-am practising coding regularly and making sure I complete the weekly practicals on time. This helps me reinforce the concepts.
+I am practising coding regularly and making sure I complete the weekly practicals on time. This helps me reinforce the concepts.
 
 ## What do you need to stop or change in your work for this subject overall so far?
 
