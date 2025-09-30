@@ -4,7 +4,7 @@ import random
 
 
 def main():
-    """Convert input file of one temperature unit to output file of another unit."""
+
     # create_input_file(15)
     input_file = open("temps_input.txt", "r")
     output_file = open("temps_output.txt", "w")
@@ -17,7 +17,7 @@ def main():
 
 
 def create_input_file(quantity):
-    """Write number (quantity) of temperatures to file."""
+
     temperatures_file = open("temps_input.txt", "w")
     for i in range(quantity):
         temperature = random.uniform(-200, 200)
@@ -26,7 +26,7 @@ def create_input_file(quantity):
 
 
 def convert_celsius_to_fahrenheit(celsius):
-    """Convert celsius to fahrenheit."""
+
     return celsius * 9.0 / 5 + 32
 
 
